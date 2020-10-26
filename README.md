@@ -2,6 +2,8 @@
 
 Aqui você encontrará todas as minhas anotações durante meu aprendizado de Python!
 
+Qualquer dúvida recomendo acessar os seguintes sites: <a href="https://learnxinyminutes.com/docs/python/">learnxinyminutes</a> e a própria documentação do <a href="https://docs.python.org/3/">Python.</a>
+
 
 # Requisitos:
 

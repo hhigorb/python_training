@@ -3,7 +3,7 @@ Geradores
 
 Geradores (generators) são iterators
 
-OBS: O contrário não é verdadeiro. Ou seja, nem todos os iterators ão generators.
+OBS: O contrário não é verdadeiro. Ou seja, nem todos os iterators são generators.
 
 Outras informações:
     - Generators podem ser criados com funções geradoras.

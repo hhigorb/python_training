@@ -10,7 +10,7 @@ Outras informações:
     - Funções geradoras utilizam a palavra reservada yield
     - Generators podem ser criados com Expressões Geradoras
 
-Diferenças entre Funções e Generator Functions (funções geradoras)
+Diferenças entre Funções e Generator Functions (funções geradoras):
 
 Funções:
     - Utilizam return

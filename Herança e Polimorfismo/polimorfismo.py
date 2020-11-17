@@ -1,7 +1,7 @@
 """
 POO - Polimorfismo
 
-QUando reimplementamos um método presente na classe pai em classes filhas estamos realizando uma sobrescrita de método
+Quando reimplementamos um método presente na classe pai em classes filhas estamos realizando uma sobrescrita de método
 (Overriding).
 
 O overriding é a melhor representação do polimorfismo.

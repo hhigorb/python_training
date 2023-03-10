@@ -1,4 +1,4 @@
-# Python - Básico ao avançado <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/snake_1f40d.png" height="50" width="50">
+# Python - Básico ao avançado <img src="https://i.pinimg.com/originals/f7/a4/83/f7a483ddf1a71154bfc8eee6eb20ec02.png" height="50" width="50">
 
 Aqui você encontrará todas as minhas anotações durante meu aprendizado de Python!
 

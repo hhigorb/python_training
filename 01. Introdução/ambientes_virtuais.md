@@ -31,7 +31,7 @@ Outra forma de ativar seria:
 workon nome_da_venv
 ```
 
-4. Instale seu arquivo requirements.txt dentro da virtualenv. Dessa forma, você evita conflito de dependências entre projetos.
+4. Instale as dependências (libs) do arquivo requirements.txt dentro da virtualenv. Dessa forma, você evita conflito de dependências entre projetos.
 
 ```bash
 pip3 install -r requirements.txt

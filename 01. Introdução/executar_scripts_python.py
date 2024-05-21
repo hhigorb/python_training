@@ -6,7 +6,6 @@ python3 main.py
 
 Aqui, python3 chama o interpretador Python, e main.py é o nome do arquivo do seu script.
 
-Passando Argumentos para o Script
 Às vezes, você pode querer passar argumentos para o seu script Python para alterar seu comportamento sem modificar o código.
 Isso pode ser feito simplesmente adicionando os argumentos após o nome do script na linha de comando. Por exemplo:
 
@@ -14,7 +13,6 @@ python3 main.py arg1
 
 Neste caso, arg1 é um argumento que você está passando para o script main.py.
 
-Acessando Argumentos no Script
 Para acessar esses argumentos dentro do seu script Python, você pode usar o módulo sys. Aqui está um exemplo simples de como fazer isso:
 """
 

@@ -31,7 +31,7 @@ Debuggando com PDB
 
 PDB -> Python Debugger
 
-Em Python, podemos debuggar de várias formas, com IDEs diferentes, como PyCharm ou VSCode (oferece um 
+Em Python, podemos debugar de várias formas, com IDEs diferentes, como PyCharm ou VSCode (oferece um 
 painel de depuração onde você pode adicionar breakpoints e inspecionar variáveis), ou até mesmo
 utilizando o PDB - Python Debugger
 

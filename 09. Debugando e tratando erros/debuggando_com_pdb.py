@@ -1,5 +1,9 @@
 """
 Debuggando com PDB
+
+Veja este tutorial de como Debuggar scripts Python no VSCode:
+https://code.visualstudio.com/docs/python/debugging
+
 PDB -> Python Debugger
 
 Em Python, podemos debuggar de várias formas, com IDEs diferentes, como PyCharm ou VSCode, ou até mesmo

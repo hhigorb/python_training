@@ -1,12 +1,38 @@
 """
-Debuggando com PDB
+Debug de Código
 
 Veja este tutorial de como Debuggar scripts Python no VSCode:
 https://code.visualstudio.com/docs/python/debugging
 
+Debugar é uma prática essencial no desenvolvimento de software para encontrar e corrigir erros no código.
+Aqui estão alguns dos principais conceitos e tópicos relacionados ao processo de depuração em Python:
+
+Breakpoint: Ponto onde a execução do programa é pausada para inspecionar variáveis e estado do programa.
+
+Step Over: Executa a próxima linha de código, mas não entra em funções chamadas; continua na linha seguinte.
+
+Step Into: Executa a próxima linha de código e entra nas funções chamadas para inspecionar o que acontece dentro delas.
+
+Step Out: Continua a execução até sair da função atual, pausando na linha de código que chamou essa função.
+
+Watch Expressions: Expressões monitoradas para ver como seus valores mudam durante a execução do programa.
+
+Call Stack: Exibe a sequência de chamadas de função que levou ao ponto atual de execução.
+
+Variable Inspection: Inspeção dos valores das variáveis durante a depuração para entender como os dados estão sendo manipulados.
+
+Conditional Breakpoints: Breakpoints que só pausam a execução quando uma condição específica é verdadeira.
+
+Exception Handling: Pausa a execução quando uma exceção é levantada, mesmo que seja tratada depois, para investigar a causa do erro.
+
+Logging: Registro de informações sobre a execução do programa em diferentes níveis de severidade (DEBUG, INFO, WARNING, ERROR, CRITICAL).
+
+Debuggando com PDB
+
 PDB -> Python Debugger
 
-Em Python, podemos debuggar de várias formas, com IDEs diferentes, como PyCharm ou VSCode, ou até mesmo
+Em Python, podemos debuggar de várias formas, com IDEs diferentes, como PyCharm ou VSCode (oferece um 
+painel de depuração onde você pode adicionar breakpoints e inspecionar variáveis), ou até mesmo
 utilizando o PDB - Python Debugger
 
 # Exemplo com Pycharm:

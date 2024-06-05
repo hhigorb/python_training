@@ -1,7 +1,7 @@
 """
 Debug de Código
 
-Veja este tutorial de como Debuggar scripts Python no VSCode:
+Veja este tutorial de como Debugar scripts Python no VSCode:
 https://code.visualstudio.com/docs/python/debugging
 
 Debugar é uma prática essencial no desenvolvimento de software para encontrar e corrigir erros no código.

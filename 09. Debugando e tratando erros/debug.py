@@ -27,7 +27,7 @@ Exception Handling: Pausa a execução quando uma exceção é levantada, mesmo 
 
 Logging: Registro de informações sobre a execução do programa em diferentes níveis de severidade (DEBUG, INFO, WARNING, ERROR, CRITICAL).
 
-Debuggando com PDB
+Debugando com PDB
 
 PDB -> Python Debugger
 

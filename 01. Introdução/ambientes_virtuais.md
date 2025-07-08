@@ -37,6 +37,12 @@ workon nome_da_venv
 pip3 install -r requirements.txt
 ```
 
+5. Verifique se as dependências e suas versões foram instaladas corretamente:
+
+```bash
+pip freeze
+```
+
 Caso queira desativar a venv, utilize o comando **deactivate** no terminal.
 
 
